@@ -4,7 +4,7 @@ Electron Git Flow é uma aplicação desktop desenvolvida para simplificar o uso
 
 ## 📘 Sobre o Projeto
 
-Git e Git Flow são ferramentas essenciais para o controle de versão e gerenciamento de branches em projetos de software. No entanto, especialmente para quem está começando, alguns comandos podem ser complicados e exigem familiaridade com o terminal. O **Electron Git Flow** fornece uma interface gráfica que permite:
+Git e Git Flow são ferramentas essenciais para o controle de versão e gerenciamento de branches em projetos de software. No entanto, especialmente para quem está começando, alguns comandos podem ser complicados e exigem familiaridade com o terminal. O **GitFlow-Studio** fornece uma interface gráfica que permite:
 
 - Executar comandos básicos do Git, como `git add`, `git commit`, `git push` e `git pull`, de forma prática e acessível.
 - Gerenciar branches com Git Flow, possibilitando criar e finalizar branches de feature de maneira simples.
